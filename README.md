@@ -4,6 +4,8 @@
 
 **Date:** 20-04-2023
 
+**Local Integration Emulator:** `netsys.ewi.utwente.nl/integrationproject`
+
 ## 1. System Overview
 The implemented system is a wireless ad-hoc network that utilizes dynamic addressing, medium access control, reliable broadcasting, and uni/multicasting, multi-hop forwarding, and fragmentation functionalities. The system consists of multiple nodes that can communicate with each other without any centralized infrastructure. The nodes use a turn-based protocol to regulate medium access, and each node is assigned a unique identifier that is used for reliable broadcasting and multi-hop forwarding.
 
